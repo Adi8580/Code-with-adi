@@ -1,0 +1,26 @@
+&& (AND) →
+a. “1 and 0” is execute the logic is false
+b. “0 and 0” is execute the logic is false
+c. “1 and 1” is execute the logic is true
+
+|| (OR) →
+a. “1 or 0” is execute the logic is true
+b. “0 or 0” is execute the logic is false
+c. “1 or 1” is execute the logic is true
+
+! (NOT) →
+a. “not 1” is execute the logic is 0
+b. “not 0” is execute the logic is 1
+
+a. !(3==3) → evaluates to false
+b. !(3>30) → evaluates to true
+
+if our a = 1 them not  a = 0
+if  our a = 0 then not  a = 1
+
+
+
+
+As the number of conditions increases, the level of indentation increases. This reduces 
+readability. Logical operators come to rescue in such cases.
+
