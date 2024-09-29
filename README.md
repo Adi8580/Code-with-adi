@@ -1,3 +1,4 @@
 # Code-with-adi
-# Student
-
+ - Student
+ -👋 Hi, I’m @Adi8580
+ - 
